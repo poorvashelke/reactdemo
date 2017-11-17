@@ -1,3 +1,5 @@
+To create React website follow following steps:
+
 Go to desktop in terminal
 mkdir nameOfDirectory(ex. reactSite)
 cd reactSite
@@ -10,6 +12,7 @@ create-react-app name(ex. react-project)
 cd react-project
 // start react app
 npm start
+
 
 
 react-running video is in root folder
