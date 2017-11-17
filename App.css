@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+p{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color:indigo;
+	font-style: oblique;
+	font-size: 20px;
+}
+
+header{
+    
+    background-color: grey;
+    color: white;
+	background-size: cover;
+	width:100%;
+	height: 100px;
+    clear: none;
+	float : left;
+}
+
+
+footer {
+    padding: 1em;
+    color: black;
+    background-color:grey;
+    clear: left;
+    text-align: center;
+}
+
+main {
+margin : 0 10px;
+width: 50%;
+float:left;
+
+}
+main ol{
+	font-weight: bold;
+}
+nav {
+width:20%;
+float: left;
+
+}
+
