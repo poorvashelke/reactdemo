@@ -13,6 +13,12 @@ cd react-project
 // start react app
 npm start
 
+//download gulp 
+npm install gulp-cli -g
+npm install gulp -D
+touch gulpfile.js   //create gulpfile.js file in root
+gulp --help
+//gulp used for convert scss to css
+//install required document mentioned in gulpfile
 
-
-react-running video is in root folder
+the react-running video is in root folder
